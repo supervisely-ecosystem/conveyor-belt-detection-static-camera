@@ -1,0 +1,12 @@
+{
+    "name": "Conveyor Belt Detection from Static Camera Video Sample Annotated",
+    "description": "Annotated sample project with videos of conveyor belt with moving suitcases and people passing by, captured by a static camera.",
+    "type": "project",
+    "categories": [
+        "import",
+        "videos",
+        "project"
+    ],
+    "icon": "https://github.com/supervisely-ecosystem/conveyor-belt-detection-static-camera/releases/download/v1.0.0/icon.png",
+    "icon_cover": true
+}
