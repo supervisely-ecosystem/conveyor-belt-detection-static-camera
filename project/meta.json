@@ -1,0 +1,44 @@
+{
+    "classes": [
+        {
+            "title": "man",
+            "description": "",
+            "shape": "bitmap",
+            "color": "#AEFF01",
+            "geometry_config": {},
+            "id": 195118,
+            "hotkey": ""
+        },
+        {
+            "title": "bag",
+            "description": "",
+            "shape": "any",
+            "color": "#DBFF00",
+            "geometry_config": {},
+            "id": 195119,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "no-objects",
+            "value_type": "none",
+            "color": "#FF0000",
+            "id": 36201,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        }
+    ],
+    "projectType": "videos",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        },
+        "labelingInterface": "default"
+    }
+}
